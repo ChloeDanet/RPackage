@@ -7,7 +7,7 @@ Installing the package
 ----------------------
 In the R console, after the installation of the "devtools" library, copy paste the following code :
 
-    devtools::install_github(repo='Romain8816/M2_RPackage/rlgd',build_vignettes = TRUE)
+    devtools::install_github(repo='ChloeDanet/RPackage/rlgd',build_vignettes = TRUE)
 
 Tutorial for package usage
 --------------------------
